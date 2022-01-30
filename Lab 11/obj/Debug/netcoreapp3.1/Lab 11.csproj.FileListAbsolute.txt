@@ -1,0 +1,16 @@
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.exe
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.deps.json
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.runtimeconfig.json
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.dll
+C:\Users\ADM\source\repos\Lab 11\Lab 11\bin\Debug\netcoreapp3.1\Lab 11.pdb
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab_11.Form1.resources
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.csproj.GenerateResource.cache
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.dll
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.pdb
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.genruntimeconfig.cache
+C:\Users\ADM\source\repos\Lab 11\Lab 11\obj\Debug\netcoreapp3.1\Lab 11.GeneratedMSBuildEditorConfig.editorconfig
